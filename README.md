@@ -70,12 +70,9 @@ s.close()
 
 ## OUTPUT
 
+![alt text](https://github.com/nithishaaditiyaa/2a_Stop_and_Wait_Protocol/blob/main/image.png)
 
-![alt text](image-2.png)
-
-
-![alt text](image-3.png)
-
+![alt text](https://github.com/nithishaaditiyaa/2a_Stop_and_Wait_Protocol/blob/main/image-1.png)
 
 
 ## RESULT
