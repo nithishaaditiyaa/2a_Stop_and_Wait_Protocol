@@ -70,10 +70,10 @@ s.close()
 
 ## OUTPUT
 
-![alt text](https://github.com/nithishaaditiyaa/2a_Stop_and_Wait_Protocol/blob/main/image.png)
+<img width="1330" height="245" alt="image" src="https://github.com/user-attachments/assets/e51b030b-56c7-4d27-b8d0-a794260bbeb3" />
 
-![alt text](https://github.com/nithishaaditiyaa/2a_Stop_and_Wait_Protocol/blob/main/image-1.png)
 
+<img width="1205" height="112" alt="image-1" src="https://github.com/user-attachments/assets/38ef697e-a811-43aa-982c-2d764fd37c78" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
